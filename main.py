@@ -1,6 +1,6 @@
 import requests
 
-
+#TODO перенести в конфиг
 def getBotToken():
     return '568160026:AAGVvONpyMwnH8efDAYAgSqn6jOur7VQfzU'
 
